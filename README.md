@@ -20,6 +20,7 @@ Wireless card support monitor mode and run as root.
 ```
 git clone https://github.com/lucthienphong1120/xDeauth
 cd xDeauth
+chmod +x install.sh xDeauth.sh
 ./install.sh
 ./xDeauth.sh
 ```

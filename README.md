@@ -3,7 +3,7 @@
 
 xDeauth is easy Hacking tool for deauthentication attack wifi with `mdk4` or `aireplay-ng`.
 
-![Screenshot_20210130_200919](https://user-images.githubusercontent.com/59124057/106358257-ace86b80-633d-11eb-8b00-0bc15f24a529.png)
+![image](https://user-images.githubusercontent.com/90561566/164226228-88fc226f-f30b-499d-825a-7ddf0e37f35a.png)
 
 ## Dependecies
 
